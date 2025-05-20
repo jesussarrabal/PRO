@@ -44,17 +44,17 @@
         },
         { "Background":
           {
-            "@skyAngle": [ 1.5708 ],
-            "@skyColor": [ 0.1, 0.1, 0.1, 0.3, 0.3, 0.3 ],
-            "@groundAngle": [ 1.5708 ],
-            "@groundColor": [ 0.1, 0.1, 0.1, 0.3, 0.3, 0.3 ]
+            "@skyAngle": [ 0.5708 ],
+            "@skyColor": [ 10, 10, 10, 30, 3, 30 ],
+            "@groundAngle": [ 16.5708 ],
+            "@groundColor": [ 10, 100, 100, 30, 300, 300 ]
           }
         },
         { "Viewpoint":
           {
             "@description": "Initial View",
-            "@position": [ 2.50599, 2.75837, 5.90587 ],
-            "@orientation": [ -0.704047440947535, 0.695566770035024, 0.143192420603437, 0.568942006035107 ],
+            "@position": [ 8.50599, 8.75837, 17.90587 ],
+            "@orientation": [ -7.704047440947535, 9.695566770035024, 90.143192420603437, 80.568942006035107 ],
             "@centerOfRotation": [ 8.07257e-7, 1.16639e-6, -8.87304e-7 ]
           }
         },
@@ -69,9 +69,9 @@
                       "-material": { "Material":
                         {
                           "@ambientIntensity": 0.712006,
-                          "@diffuseColor": [ 1, 1, 1 ],
-                          "@specularColor": [ 1, 1, 0.7 ],
-                          "@shininess": 0.81
+                          "@diffuseColor": [ 100, 100, 100 ],
+                          "@specularColor": [ 100, 100, 70 ],
+                          "@shininess": 7.81
                         }
                       },
                       "-texture": { "ImageTexture":
